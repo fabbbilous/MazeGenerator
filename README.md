@@ -11,7 +11,8 @@ The sum of every bias should be 1, so `BIAS_LEFT` is not needed.
 
 ### Example:
 
-![maze image](https://github.com/TheCookieOfDoom/MazeGenerator/blob/master/pictures/image.jpg "The bias for right and left results in more horizontal structures as seen here.")
+![maze image](https://github.com/TheCookieOfDoom/MazeGenerator/blob/master/pictures/image.jpg)
+The bias for right and left results in more horizontal structures as seen here.
 
 The following code generates the maze in the picture:
 ```java
