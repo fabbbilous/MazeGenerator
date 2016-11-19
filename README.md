@@ -16,4 +16,4 @@ The following code generates the maze in the picture:
 Maze maze = new Maze(30, 40, 4, 27, 36, 9, (float) 0.1, (float) 0.4, (float) 0.1, "C:/someFolder/maze.jpg");
 ```
 
-![maze image](pictures/maze.jpg "The bias for right and left results in more horizontal structures as seen here.")
+![maze image](https://github.com/TheCookieOfDoom/MazeGenerator/blob/master/pictures/image.jpg "The bias for right and left results in more horizontal structures as seen here.")
