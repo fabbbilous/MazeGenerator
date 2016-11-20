@@ -16,7 +16,7 @@ The bias for right and left results in more horizontal structures as seen here.
 
 The following code generates the maze in the picture:
 ```java
-Maze maze = new Maze(30, 40, 4, 27, 36, 9, (float) 0.1, (float) 0.4, (float) 0.1, "C:/someFolder/maze.jpg");
+Maze maze = new Maze(30, 40, 4, 27, 36, 9, (float) 0.1, (float) 0.4, (float) 0.1, "C:/someDirectory/maze.jpg");
 ```
 
 Also, thanks to [engboris](https://github.com/engboris) for inspiring me to create such a program!
